@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Parqueadero Unidad Residencial Tukana 2018';
+  title = 'Parqueadero Unidad Residencial Tukana 2018-09';
   visible = false;
   decirAdios() {
     this.visible = true;
